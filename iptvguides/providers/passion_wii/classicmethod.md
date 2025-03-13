@@ -16,7 +16,7 @@ Debido a estas desventajas, se recomienda agregar Passion Wii Streaming a DangoP
 
 <a href="https://dangoguides.github.io/dangoguides_spanish/iptvguides/providers/passion_wii/newmethod">Usar el nuevo método de lista de acceso rápido en lugar del método clásico</a>
 
-### Instrucciones de agregado
+## Instrucciones de agregado
 - Abre DangoPlayer (puede solicitar permisos de acceso al almacenamiento o a la biblioteca de vídeos al iniciarse)
 - Selecciona la opción "Agregar lista"
 - Introduce la siguiente información según la lista que desees agregar:
