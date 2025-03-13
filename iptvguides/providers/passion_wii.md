@@ -9,3 +9,6 @@ Existen dos métodos para agregar Passion Wii Streaming a DangoPlayer, el nuevo 
 
 - <a href="https://dangoguides.github.io/dangoguides_spanish/iptvguides/providers/passion_wii/newmethod">Usar el nuevo método de lista de acceso rápido (recomendado)</a>
 - <a href="https://dangoguides.github.io/dangoguides_spanish/iptvguides/providers/passion_wii/classicmethod">Usar el método clásico</a>
+
+## Enlaces externos de Passion Wii Streaming 
+- <a href="https://www.facebook.com/groups/300031562171152/">Grupo de Facebook oficial de Passion Wii Streaming</a>
