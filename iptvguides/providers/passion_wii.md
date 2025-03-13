@@ -5,7 +5,7 @@ En estas instrucciones se indicará como agregar las listas de Passion Wii Strea
 <img alt='Passion Wii Streaming' width='700' src='https://dangoguides.github.io/dangoguides_spanish/iptvguides/providers/assets/passionwii.jpeg'/>
 
 ## Nuevo método (Lista de acceso rápido)
-Este método es el nuevo método para acceder a Passion Wii Streaming, y el mas sencillo, ya que simplemente consiste en agregar la lista de acceso rápido a DangoPlayer y ya se puede acceder desde ahí a las listas de Streaming General y Streaming Zona Kids de Passion Wii Streaming desde DangoPlayer fácilmente como en la aplicación de Passion Wii Streaming para Nintendo Wii
+Este método es el nuevo método para acceder a Passion Wii Streaming, y el mas sencillo, ya que simplemente consiste en agregar la lista de acceso rápido a DangoPlayer y ya se puede acceder desde ahí a las listas de Streaming General y Streaming Zona Kids, asi como a la sección de Novedades en el Streaming de Passion Wii Streaming desde DangoPlayer fácilmente como en la aplicación de Passion Wii Streaming para Nintendo Wii
 
 Además, este método no requerirá eliminar y volver a agregar las listas en caso de que las listas de las secciones de Passion Wii Streaming cambien de URL en el futuro, ya que la lista de acceso rapido se actualizará automáticamente con las nuevas URLs en caso de que estas cambien
 
