@@ -4,7 +4,9 @@ plugins:
 
 title: DangoGuides en Español
 author: Bruno-chanrio
-logo: DangoPlayerUni_Logo.png
+logo: assets/DangoPlayerUni_Logo.png
+mobilelogo: assets/DangoPlayerUni_Icon.png
+
 
 
 
