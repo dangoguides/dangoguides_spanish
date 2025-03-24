@@ -1,4 +1,4 @@
-remote_theme: brunochanrio/mkdocs-jekyll@1.2.1
+remote_theme: brunochanrio/material-jekyll-chanrio@2025.03.24
 plugins:
 - jekyll-remote-theme
 
@@ -12,7 +12,10 @@ baseurl: "/dangoguides_spanish"
 color: "#1DE9B6"
 accentColor: teal
 themeColor: purple
-fixedNav: 'false' # true or false
+fixedNav: 'true' # true or false
+developedby: true
+
+github: brunochanrio
 
 permalink: /:year/:title/
 markdown: kramdown
