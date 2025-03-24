@@ -9,13 +9,13 @@ logo: DangoPlayerUni_Logo.png
 
 
 baseurl: "/dangoguides_spanish"
-color: "#1DE9B6"
-accentColor: teal
-themeColor: purple
+color: "#FF7FAC"
+accentColor: pink
+themeColor: pink
 fixedNav: 'true' # true or false
 developedby: true
 
-github: brunochanrio
+github_user: brunochanrio
 
 permalink: /:year/:title/
 markdown: kramdown
